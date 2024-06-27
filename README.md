@@ -3,8 +3,9 @@ I am a data enthusiast with a background in Information Technology and System Ma
 I am always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out to me through the following channels:
 
 Email: sanjyot.bhosale007@gmail.com
+
 Phone: +91 7558347535
-LinkedIn: linkedin.com/in/sanjyot-b-8742b518b
+
 
 <!---
 Sanjyot2729/Sanjyot2729 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
